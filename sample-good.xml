@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Document UID="{1333B0AF-4CA1-482E-B6C3-344C0C07295D}" Id="1" Type="TEST" Name="Test" CreatedBy="eskort" Created="2022/04/22 14:17:46" ModifiedBy="eskort" Modified="2022/04/22 14:18:55" DocOwner="eskort" OnMatch="Replace" MaxInstances="1" >
+  <SimpleForm Id="0" Type="TEST" Name="" Modified="2022/04/22 14:18:55" UID="{E01D9D61-C293-4352-9EF5-F9A576878C95}" >
+    <Cell Name="A" Type="Text" Value="{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Segoe UI;}{\f1\fnil Segoe UI;}}
+{\colortbl ;\red255\green0\blue0;}
+{\*\generator Riched20 10.0.22000}\viewkind4\uc1 
+\pard\cf1\f0\fs18 Friend\cf0\f1}" />
+    <Cell Name="B" Type="Text" Value="{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Segoe UI;}{\f1\fnil Segoe UI;}}
+{\colortbl ;\red255\green0\blue0;}
+{\*\generator Riched20 10.0.22000}\viewkind4\uc1 
+\pard\cf1\f0\fs18 Friend\cf0\f1}" />
+  </SimpleForm>
+</Document>
